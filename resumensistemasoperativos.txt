@@ -1,0 +1,26 @@
+RESUMEN VIDEO INTRODUCCIÓN A LOS SISTEMAS OPERATIVOS
+
+Autor: Andres Felipe Tarapues Cuaical
+Ciencias de la computación 	
+
+
+
+Un sistema operativo es aquel en donde un conjunto de programas donde se ejecutan por medio del software 
+de aplicación  e interactua con el usuario y el hardware por medio de una interfaz; "windows" es el sistema 
+operativo mayor conocido en el mundo y el que prevalece en las computadoras nuevas al momento de encender, 
+otro sistema operativo conocido es "Mac OS" usado unixamente en las computadoras de apple y  por ende ambos
+o software tienen un costo para adquirir dicha licencia; mientras que el sistema operativo "Linux" es libre 
+más no gratuito en donde acepta donativos.
+
+
+El objetivo más general de dichos sistemas es que contenga una interfaz para la manipulación sencilla e 
+intuitivo, dado que posee diferentes tipos de sistemas operativos como los multitareas que se caracterizan 
+aquel que permite realizar varias tareas al mismo tiempo; el caso opuesto es el sistema monotarea el cual 
+nos brinda la ayuda de resolver un problema a la vez.
+También existen los sistemas monousuarios y multiusuarios en donde solo puede soportar un usuario a la vez 
+mientras que el multiusuario son capaces de dar acceso a varios usuarios al tiempo conectadas al mismo computador
+o a una red de comunicaciones.
+
+
+Las funciones proncipales de los sistemas operativos son la gestion del hardware y la de  facilita rel trabajo al
+usuario que van de la mano mutuamente.
