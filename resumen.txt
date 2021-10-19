@@ -1,0 +1,52 @@
+Resumen videos sistemas operativos
+
+Andrés Felipe Tarapues
+
+
+Lo que entendemos por máquina desnuda es aquella todos los recursos van a cargo del programador
+como anteriormente se tenía la idea de quien accedía a un computador era por medio de una 
+institución, gobierno u otro grupo con la capacidad de usarlo, dado que el usuario debía 
+ingresar los programas a usar, guardar o imprimir la información y esperar que el computador 
+procesé dicha información. Para mejorar los tiempos siguiendo unas instrucciones para usar
+diferentes programas por medio de la memoria del computador, llamado sistema de procesamiento
+por lotes 'batch'; este sistema más adelante evolucionó en los monitores residentes los cuales
+permanecia en la memoria y se crea una interfaz por medio de una terminal para el usuario 
+podía indicarle nuevas instrucciones; Pero estos sistemas no alcanzaban con ejecutar un 
+programa a la vez.
+
+Un sistema operativo es un software que controla y administra la máquina.
+Un procesador de 100Mhz a 10 ciclos por instrucción o sea que 10 millones de instrucciones por 
+segundo para poder utilizar varios programas de manera concurrente para tener una primera función 
+importante para el sistema operativo la de administrar los recursos para que los programas no 
+interferan entre si.
+IBM al liberar su arquitectura de su computador bien detallado da un gran paso para que diferentes 
+organismos puedan construir sus propias computadoras y asi dar un alzance mundial de estas máquinas
+sin embargo al existir diferentes fabricantes se debia llegar una funcionalidad del sistema operativo
+más abstracta y ofreciendo una interfaz para el usuario. Entonces las funciones fundamentales de 
+un sistema operativo son:
+
+	-Administración de recursos.
+	-Abstraer el hardware.
+	-Ofrecer una interfaz de supervisión.
+
+y las características de un sistema operativo moderno:
+	-Multitarea: Ejectuar concurrentemente más de una tarea. 
+	-Multiusuario: Capacidad de identificar y autenticar diferentes usuarios y asignarles privilegios.
+	-Multiproceso o multiprocesador: Capacidad de administrar máquinas con varios CPU's
+		*Multiprocesamiento asimétrico
+		*Multiprocesamiento simétrico
+
+Un proceso es un programa en ejecución; una multitarea colaborativa sin el soporte del hardware
+mediante un protocolo mediante devolver la CPU cuando necesiten aldo de un periférico o después 
+de cierto tiempo y entrar solamente a las zonas de memoria asignadas por el S.O.
+Para distinguir quien es el sistema operativo cuando el primer programa que se ejecuta en la CPU
+la recibe en el anillo 1, y para pasar del anillo 1 al 2, es por medio de un salto especial
+que el S.O. utiliza para ejecutar código de un programa, en viceversa de anillo 2 a 1, cuando se
+produce una interrupción la CPU ejecuta el código de atención de la interrupción en anillo 1,
+dicho soporte para el manejo de interrupciones es un mecanismo por el cual se puede "interrumpir"
+a la CPU, genera un salto a subrutina especial, guardando el eestado interno de la CPU y ejecutando
+un código ya especificando por el S.O, estas interruciones se pueden porducir por hardware, excepción,
+software
+
+
+
